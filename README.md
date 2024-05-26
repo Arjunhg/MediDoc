@@ -14,6 +14,7 @@ Welcome to the end-to-end medical chatbot project using Llama2! This project lev
 Start by cloning the repository to your local machine and go to root folder.
 
 ```bash
+repo https://github.com/Arjunhg/MediDoc.git
 cd your-repository
 ```
 
@@ -69,12 +70,12 @@ python app.py
 
 ## 🛠 Tech Stack
 
-Python: The core programming language used for the backend logic.
-LangChain: Utilized for creating the language model chain.
-Flask: A lightweight WSGI web application framework for Python.
-Meta Llama2: The model used for generating responses.
-Mongo Atlas Vector Search: Used for storing and searching vectorized documents.
-Hugging Face: Provides pre-trained models for inference.
+- Python: The core programming language used for the backend logic.
+- LangChain: Utilized for creating the language model chain.
+- Flask: A lightweight WSGI web application framework for Python.
+- Meta Llama2: The model used for generating responses.
+- Mongo Atlas Vector Search: Used for storing and searching vectorized documents.
+- Hugging Face: Provides pre-trained models for inference.
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
