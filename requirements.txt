@@ -1,0 +1,8 @@
+ctransformers==0.2.5
+sentence-transformers==2.2.2
+langchain==0.1.20
+flask
+pypdf
+python-dotenv
+pymongo
+-e .
